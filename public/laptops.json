@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "title": "XPS 15",
+    "manufacturer": "Dell",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/06/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Dell-XPS-15-2020.jpg",
+    "price": "2325",
+    "rating": 5
+  },
+  {
+    "id": 1,
+    "title": "SPECTRE X360",
+    "manufacturer": "HP",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/02/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-HP-Spectre-x360-2020.jpg",
+    "price": "1437",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "XPS 13",
+    "manufacturer": "Dell",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Dell-XPS-13.jpg",
+    "price": "1450",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "MATEBOOK 13",
+    "manufacturer": "Huawei",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Huawei-MateBook-13.jpg",
+    "price": "1800",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "title": "SWIFT 3",
+    "manufacturer": "Acer",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/02/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Acer-Swift-3.jpg",
+    "price": "1450",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "title": "MACBOOK PRO 16",
+    "manufacturer": "Apple",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/11/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Apple-MacBook-Pro-16-2019.jpg",
+    "price": "2000",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "MACBOOK AIR",
+    "manufacturer": "Apple",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/03/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Apple-MacBook-Air-2020.jpg",
+    "price": "1100",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "title": "ROG ZEPHYRUS G14",
+    "manufacturer": "ASUS",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/04/ASUS-ROG-Zephyrus-G14-01.jpg",
+    "price": "1200",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "title": "TUF A15",
+    "manufacturer": "ASUS",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/06/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-ASUS-TUF-A15.jpg",
+    "price": "1050",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "title": "ELITE DRAGONFLY",
+    "manufacturer": "HP",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-HP-Elite-Dragonfly.jpg",
+    "price": "1700",
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "title": "ENVY X360 13",
+    "manufacturer": "HP",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2020/02/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-HP-Envy-x360-2019.jpg",
+    "price": "1700",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "title": "PIXELBOOK GO",
+    "manufacturer": "Google",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Google-Pixelbook-Go-1.jpg",
+    "price": "1150",
+    "rating": 4
+  },
+  {
+    "id": 12,
+    "title": "CHROMEBOOK FLIP",
+    "manufacturer": "ASUS",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Asus-Chromebook-Flip.jpg",
+    "price": "1000",
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "title": "VIVOBOOK S15",
+    "manufacturer": "ASUS",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Asus-VivoBook-S15.jpg",
+    "price": "1700",
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "title": "SURFACE LAPTOP 3",
+    "manufacturer": "Microsoft",
+    "image": "https://www.howtablet.ru/wp-content/uploads/2019/01/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B9-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-Microsoft-Surface-Laptop-3.jpg",
+    "price": "1500",
+    "rating": 5
+  }
+]
