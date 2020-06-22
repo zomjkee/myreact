@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myreact/static/css/main.db40ad15.chunk.css",
+    "main.js": "/myreact/static/js/main.f4bc9302.chunk.js",
+    "main.js.map": "/myreact/static/js/main.f4bc9302.chunk.js.map",
+    "runtime-main.js": "/myreact/static/js/runtime-main.cd84ba2f.js",
+    "runtime-main.js.map": "/myreact/static/js/runtime-main.cd84ba2f.js.map",
+    "static/css/2.6a38c7e6.chunk.css": "/myreact/static/css/2.6a38c7e6.chunk.css",
+    "static/js/2.16179d10.chunk.js": "/myreact/static/js/2.16179d10.chunk.js",
+    "static/js/2.16179d10.chunk.js.map": "/myreact/static/js/2.16179d10.chunk.js.map",
+    "index.html": "/myreact/index.html",
+    "precache-manifest.cacefb21c4fcbe687ac86f94b2fb8a69.js": "/myreact/precache-manifest.cacefb21c4fcbe687ac86f94b2fb8a69.js",
+    "service-worker.js": "/myreact/service-worker.js",
+    "static/css/2.6a38c7e6.chunk.css.map": "/myreact/static/css/2.6a38c7e6.chunk.css.map",
+    "static/css/main.db40ad15.chunk.css.map": "/myreact/static/css/main.db40ad15.chunk.css.map",
+    "static/js/2.16179d10.chunk.js.LICENSE.txt": "/myreact/static/js/2.16179d10.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/myreact/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd84ba2f.js",
+    "static/css/2.6a38c7e6.chunk.css",
+    "static/js/2.16179d10.chunk.js",
+    "static/css/main.db40ad15.chunk.css",
+    "static/js/main.f4bc9302.chunk.js"
+  ]
+}
